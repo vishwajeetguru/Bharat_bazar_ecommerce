@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Bazaar - Family E-Commerce Store",
+  "description": "A modern multi-category Indian e-commerce store with fashion, authentic masalas, daily groceries, deals, smart search, and fast checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
